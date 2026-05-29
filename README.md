@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karingula Saikiran Goud</h1>
 
 <h3 align="center">
-Aspiring Data scientist • Data Analyst • Machine Learning Engineer • Generative AI Engineer • Agentic AI Enthusiast
+Aspiring Data scientist | Data Analyst | Machine Learning Engineer | Generative AI Engineer | Agentic AI Enthusiast
 </h3>
 
 <p align="center">
