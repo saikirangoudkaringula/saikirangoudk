@@ -195,7 +195,7 @@ Built a Machine Learning model to predict salary trends based on years of experi
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" />
 </a>
 
-<a href="https://github.com/saikirangoudk" target="blank">
+<a href="https://github.com/saikirangoudkaringula" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" width="40" />
 </a>
 
@@ -212,12 +212,7 @@ Built a Machine Learning model to predict salary trends based on years of experi
 
 # 📊 GitHub Analytics
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saikirangoudk&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikirangoudk&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
