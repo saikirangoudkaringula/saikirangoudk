@@ -1,50 +1,95 @@
-# saikirangoudk
+<h1 align="center">Hi 👋, I'm Karingula Saikiran Goud</h1>
 
-# 👋 Hi, I'm Karingula Saikiran Goud
+<h3 align="center">
+Aspiring Data scientist • Data Analyst • Machine Learning Engineer • Generative AI Engineer • Agentic AI Enthusiast
+</h3>
 
-🚀 Data Scientist | Machine Learning Engineer | Data Analyst  
-📍 Hyderabad, India  
+<p align="center">
+Passionate about building intelligent, scalable, and data-driven solutions using Machine Learning, Analytics, Generative AI, and Automation.
+</p>
 
-Passionate about Data Science, Machine Learning, AI, and Analytics with hands-on experience in building predictive models, dashboards, and intelligent solutions.
-
----
-
-## 🔗 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/saikirangoudk
-- 💻 GitHub: https://github.com/saikirangoudk
-- 📧 Email: saikirangouds1022@gmail.com
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 Professional Summary
 
-## Languages
-- Python
-- SQL
-- HTML/CSS
+Detail-oriented Computer Science Engineering student with strong expertise in Data Analytics, Machine Learning, and AI-driven solutions. Skilled in transforming raw datasets into actionable business insights through data preprocessing, visualization, predictive modeling, and dashboard development.
 
-## Data Science & Machine Learning
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
-- Seaborn
+Currently seeking opportunities, internships, and training roles in:
+
+- 📊 Data Analyst
+- 🤖 Machine Learning Engineer
+- 🧠 Generative AI Engineer
+- ⚡ Agentic AI Engineer
+- 📈 AI & Analytics Internships
+
+---
+
+# 🛠️ Technical Skills
+
+## 👨‍💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css" />
+</p>
+
+---
+
+## 📊 Data Science & Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow" />
+</p>
+
+- Exploratory Data Analysis (EDA)
 - Feature Engineering
-- Model Evaluation
+- Statistical Modeling
+- Predictive Analytics
 - Regression Models
+- Model Evaluation
+- Data Cleaning & Preprocessing
 
-## Business Intelligence
+---
+
+## 📈 Visualization & BI Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tableau" />
+</p>
+
 - Power BI
 - Tableau
 - Advanced Excel
 - Google Sheets
+- Matplotlib
+- Seaborn
 
-## Tools & Platforms
-- Git & GitHub
+---
+
+## ⚙️ Development Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit" />
+</p>
+
 - Jupyter Notebook
+- Git & GitHub
 - VS Code
 - Streamlit
+
+---
+
+## 🤖 AI & Emerging Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=openai" />
+</p>
+
+- Generative AI
+- Agentic AI Fundamentals
+- AI Workflow Automation
+- Prompt Engineering
+- Predictive Analytics
 
 ---
 
@@ -52,98 +97,139 @@ Passionate about Data Science, Machine Learning, AI, and Analytics with hands-on
 
 ## 🏠 House Price Prediction App
 
-Machine Learning web application that predicts house prices using Multiple Linear Regression.
+Developed an end-to-end Machine Learning web application to predict property prices using Multiple Linear Regression.
 
-### Features
-- Data Cleaning & EDA
-- Feature Engineering
-- Regression Modeling
-- Real-time Predictions using Streamlit
+### 🔹 Key Highlights
+- Conducted extensive Data Cleaning & EDA
+- Applied Feature Engineering techniques
+- Improved model performance using optimized regression workflow
+- Built real-time prediction interface using Streamlit
 
-### Tech Stack
-`Python` `Pandas` `Scikit-Learn` `Streamlit`
+### 🔹 Tech Stack
+`Python` `Pandas` `NumPy` `Scikit-Learn` `Streamlit`
 
 ---
 
 ## 📊 Student Result Analysis Dashboard
 
-Interactive Power BI dashboard for analyzing student academic performance.
+Designed an interactive Power BI dashboard for analyzing academic performance and GPA trends.
 
-### Features
-- GPA Tracking
-- Drill-down Visualizations
-- Subject-wise Analysis
-- Dynamic Filtering
+### 🔹 Key Highlights
+- Created KPI-driven dashboards
+- Built drill-down analytical reports
+- Implemented dynamic filtering systems
+- Integrated multi-source datasets
 
-### Tech Stack
+### 🔹 Tech Stack
 `Power BI` `Excel` `Google Sheets`
 
 ---
 
 ## 💰 Salary Prediction System
 
-Linear Regression model for predicting salaries based on years of experience.
+Built a Machine Learning model to predict salary trends based on years of experience.
 
-### Features
-- Data Visualization
-- Model Training
-- Prediction System
-- Model Persistence using Pickle
+### 🔹 Key Highlights
+- Implemented complete ML lifecycle
+- Performed visualization and trend analysis
+- Built prediction-ready deployment workflow
+- Used Pickle for model persistence
 
-### Tech Stack
+### 🔹 Tech Stack
 `Python` `Scikit-Learn` `Matplotlib`
 
 ---
 
-# 💼 Experience
+# 💼 Professional Experience
 
-## Cold Star Logistics (Client: Swiggy Instamart)
+## 🚚 Cold Star Logistics (Client: Swiggy Instamart)
 
 ### PR Team Lead – Inventory & Analytics
-- Maintained 98–100% inventory accuracy
-- Automated reporting workflows
-- Improved operational data consistency
+
+- Maintained 98–100% inventory data accuracy across high-volume warehouse operations
+- Automated reporting and PR validation workflows
+- Conducted root-cause analysis to reduce operational discrepancies
+- Improved reporting efficiency using data-driven tracking systems
 
 ### Dispatch Team Lead
-- Managed 100+ daily dispatch orders
-- Achieved 0.1% error rate
-- Improved fulfillment efficiency
+
+- Managed 100+ dispatch operations daily with high operational accuracy
+- Achieved 0.1% operational error rate through process optimization
+- Improved warehouse workflow efficiency using operational data analysis
 
 ---
 
 # 🎓 Education
 
-## B.Tech in Computer Science & Engineering
-Sri Chaitanya Technical Campus  
-CGPA: 8.11 / 10.0
+## Sri Chaitanya Technical Campus
+
+🎓 B.Tech in Computer Science & Engineering  
+📍 Hyderabad, India  
+📊 CGPA: **8.27 / 10.0**
 
 ---
 
 # 📜 Certifications
 
 - Tata Forage Data Analytics Virtual Internship
-- Deloitte Forage Data Analytics Internship
+- Deloitte Data Analytics Virtual Internship
 - Machine Learning Specialization
+- Power BI & Analytics Practice Projects
 
 ---
 
-# 📈 GitHub Stats
+# 🌱 Currently Learning
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikirangoudk&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikirangoudk&layout=compact&theme=tokyonight)
-
----
-
-# 🚀 Currently Learning
-
-- Generative AI
-- Agentic AI
-- Advanced Machine Learning
+- Generative AI Applications
+- Agentic AI Systems
 - Deep Learning
+- LLM Workflows
+- AI Automation
 
 ---
 
-# ⭐ Quote
+# 📫 Connect With Me
 
-"Turning Data into Decisions with AI & Analytics."
+<p align="left">
+<a href="https://linkedin.com/in/saikirangoudk" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" />
+</a>
+
+<a href="https://github.com/saikirangoudk" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" width="40" />
+</a>
+
+<a href="mailto:saikirangoudkaringula032004@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" width="40" />
+</a>
+</p>
+
+- 💼 LinkedIn: https://linkedin.com/in/saikirangoudk
+- 💻 GitHub: https://github.com/saikirangoudk
+- 📧 Email: saikirangoudkaringula032004@gmail.com
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saikirangoudk&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikirangoudk&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saikirangoudk&theme=tokyonight" />
+</p>
+
+---
+
+# ⭐ Career Objective
+
+### “Transforming Data into Intelligent AI-Driven Business Solutions.”
+
+<p align="center">
+Open to internships, training programs, freelance opportunities, and full-time roles in Data Analytics, Machine Learning, and AI Engineering.
+-.
