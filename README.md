@@ -205,7 +205,7 @@ Built a Machine Learning model to predict salary trends based on years of experi
 </p>
 
 - 💼 LinkedIn: https://linkedin.com/in/saikirangoudk
-- 💻 GitHub: https://github.com/saikirangoudk
+- 💻 GitHub: https://github.com/saikirangoudkaringula
 - 📧 Email: saikirangoudkaringula032004@gmail.com
 
 ---
