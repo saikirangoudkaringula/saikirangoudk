@@ -4,7 +4,7 @@
 Aspiring Data scientist | Data Analyst | Machine Learning Engineer | Generative AI Engineer | Agentic AI Enthusiast
 </h3>
 
-<p align="center">
+<p align="left">
 Passionate about building intelligent, scalable, and data-driven solutions using Machine Learning, Analytics, Generative AI, and Automation.
 </p>
 
