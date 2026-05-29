@@ -210,16 +210,7 @@ Built a Machine Learning model to predict salary trends based on years of experi
 
 ---
 
-# 📊 GitHub Analytics
 
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saikirangoudk&theme=tokyonight" />
-</p>
-
----
 
 # ⭐ Career Objective
 
