@@ -95,7 +95,7 @@ Currently seeking opportunities, internships, and training roles in:
 
 # 📌 Featured Projects
 
-## 🏠 House Price Prediction App
+## 🏠 Predictive Analytics Application  ML & Streamlit 
 
 Developed an end-to-end Machine Learning web application to predict property prices using Multiple Linear Regression.
 
@@ -110,7 +110,7 @@ Developed an end-to-end Machine Learning web application to predict property pri
 
 ---
 
-## 📊 Student Result Analysis Dashboard
+## 📊 Business Intelligence Dashboard | Power BI 
 
 Designed an interactive Power BI dashboard for analyzing academic performance and GPA trends.
 
@@ -125,7 +125,7 @@ Designed an interactive Power BI dashboard for analyzing academic performance an
 
 ---
 
-## 💰 Salary Prediction System
+## 💰 Regression-Based Forecasting Model | Python & Scikit-Learn
 
 Built a Machine Learning model to predict salary trends based on years of experience.
 
