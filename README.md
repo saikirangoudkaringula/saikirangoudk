@@ -400,5 +400,5 @@ Built a Machine Learning model to predict salary based on years of experience.
 ### “Transforming Data into Intelligent, AI-Driven Business Solutions.”
 
 <p align="center">
-Open to internships, training programs, freelance opportunities, and full-time roles in Data Analytics, Data Science, Machine Learning, Generative AI, and AI Engineering.
+Open to internships, training programs, freelance opportunities, and full-time roles in Data Analytics, Data Science, Machine Learning, Generative AI, and AI Engineering, Agentic Engineering.
 </p>
